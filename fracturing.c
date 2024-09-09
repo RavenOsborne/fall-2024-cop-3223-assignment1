@@ -1,4 +1,5 @@
 //Raven Osborne 
+//5367259
 //Assignment 1
 //COP 3223
 //September 7, 2024
@@ -47,6 +48,7 @@ double calculateHeight(){
 
 
 //main function
+//Im sorry Im very confused on this assignment, I know things arent correct
 int main (int argc, char **argv){
 
     //coordinate x1, y1 (center)
